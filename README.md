@@ -1,16 +1,15 @@
-## Hi there 👋
+<p align="center">
+  <img src="capagit.png" alt="Banner Kleber CS" width="100%">
+</p>
 
-<!--
-**KleberCS84/KleberCS84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Olá, eu sou o Kleber 👋</h1>
+<p align="center">
+  Estudante de Ciência da Computação no IFG • Java • Python • IA aplicada
+</p>
 
-Here are some ideas to get you started:
+### 🎮 Projetos em destaque
+- **[PurrfectMatch](https://github.com/KleberCS84/PurrfectMatch)**: jogo match-3 em Java/Android com tema de resgate de gatos
+- **Barba Mestra**: sistema de barbearia (Análise e Modelagem de Sistemas)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias
+Java · Python · SQL · Excel avançado (VBA)
