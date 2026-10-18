@@ -8,6 +8,7 @@
 </p>
 
 ### 🎮 Projetos em destaque
+- **PsiGestor**: Sistema desktop para consultórios de psicologia: agenda, prontuário cifrado (AES-256-GCM), financeiro com repasse e controles LGPD. Java 21 + JavaFX + SQLite.
 - **[PurrfectMatch](https://github.com/KleberCS84/PurrfectMatch)**: jogo match-3 em Java/Android com tema de resgate de gatos
 - **Barba Mestra**: sistema de barbearia (Análise e Modelagem de Sistemas)
 
